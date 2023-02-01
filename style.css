@@ -1,0 +1,40 @@
+h1{
+font-size:52px;
+color: #115599;
+font-family: Copperplate, Garamond, Serif;
+}
+
+h2 {
+font-family: Garamond, Georgia, Sans-Serif;
+}
+
+img {
+height: 300px;
+width: auto;
+}
+
+em {
+font-family: Papyrus, "Times New Roman";
+}
+
+a {
+text-decoration: none;
+}
+
+ul {
+background: #ba3599;
+padding: 20px;
+}
+
+ul li {
+background: #8c97c3;
+color: darkblue;
+padding: 5px;
+margin-left: 35px;
+list-style-image: url('./images/Red Swirl.gif');
+}
+
+ol li {
+list-style-type: lower-roman;
+}
+
